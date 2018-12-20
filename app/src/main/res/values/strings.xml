@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerView_Demo</string>
+
+    <string-array name="Country_Name">
+        <item>India</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>Neatherland</item>
+        <item>Newzeland</item>
+        <item>Thailand</item>
+        <item>Srilanka</item>
+    </string-array>
+      <string-array name="Capital_name">
+          <item>Delhi</item>
+          <item>Canberra</item>
+          <item>London</item>
+          <item>Amsterdam</item>
+          <item>Wellington</item>
+          <item>Bangkok</item>
+          <item>jayawardenapu</item>
+      </string-array>
+
+</resources>

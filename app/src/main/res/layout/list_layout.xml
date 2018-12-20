@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal">
+
+\
+
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/india"
+        android:id="@+id/image_flag"/>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+         android:text="India"
+         android:textSize="25dp"
+        android:gravity="center"
+        android:id="@+id/tv_country"/>
+
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="match_parent"
+        android:text="Delhi"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:id="@+id/tv_capital"/>
+
+
+</LinearLayout>
